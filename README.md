@@ -1,6 +1,6 @@
 ## Assignment Background
 
-As part of the Applied Data Science Capstone Project - IBM Coursera, the goal of this project is to find the best district or neighborhood in a chosen city to open a restaurant. Venue data provided by Foursquare's API. 
+As part of the Applied Data Science Capstone Project - IBM Coursera, the goal of this project is to find the best district or neighborhood in a chosen city to open a restaurant. Venue data provided by Foursquare's API. Project File Name: 'IBM Capstone Project.ipynb'.
 
 ## Prerequisites 
 
